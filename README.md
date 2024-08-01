@@ -30,7 +30,7 @@ Here are some of the technologies and tools I work with:
 Here are some of the projects I've been working on:
 
 - [**Online Diary**](https://github.com/G1nphyy/Electronic-Diary) - A school online diary, it's mine first project. I'm still learning ;)
-- **Wait for more <3** - Maybe some game
+- **[**Mario Syndrom Adventure**](https://github.com/G1nphyy/Mario-Syndrom-Adventure)** - A game made in python (it was a project for school)
 
 
 Thanks for visiting my profile! Have a great day! 😄
