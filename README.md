@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Programmer and student, constantl
 - 🌱 I'm currently learning new technologies and improving my expertise in existing ones.
 - 📝 I regularly explore new topics and share my knowledge through my projects and repositories.
 - ⚡ I love VOLLEYBALL
+- 👨🏿‍🏫 Right now im learning React.js 😵‍💫
 
 ## 🛠️ Skills
 
