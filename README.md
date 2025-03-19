@@ -9,14 +9,14 @@ Welcome to my GitHub profile! I'm a passionate Programmer and student, constantl
 - 🌱 I'm currently learning new technologies and improving my expertise in existing ones.
 - 📝 I regularly explore new topics and share my knowledge through my projects and repositories.
 - ⚡ I love VOLLEYBALL
-- 👨🏿‍🏫 Right now im learning C# and Laravel 😵‍💫
+- 👨🏿‍🏫 Right now im learning C# 😵‍💫
 
 ## 🛠️ Skills
 
 Here are some of the technologies and tools I work with:
 
 - **Programming Languages:** PHP, MySQL, Python, JavaScript, C++
-- **Web Development:** HTML, CSS, JavaScript + React.js, PHP, MySQL
+- **Web Development:** HTML, CSS, JavaScript + React.js, PHP, MySQL, MariaDB, PostgreSQL, Laravel
 - **Game Development:** Godot, Python, C++
 - **Tools:** Git, Docker
 - **Im programming in VSC and VS**
