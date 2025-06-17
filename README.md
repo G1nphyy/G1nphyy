@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm a passionate Programmer and student, constantl
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** PHP, MySQL, Python, JavaScript, C++
+- **Programming Languages:** PHP, MySQL, Python, JavaScript, C++, C#
 - **Web Development:** HTML, CSS, JavaScript + React.js, PHP, MySQL, MariaDB, PostgreSQL, Laravel, TypeScript, Vite
-- **Game Development:** Godot, Python, C++
+- **Game Development:** Godot, Python, C++, C#, UE5
 - **Tools:** Git, Docker, npm
 - **Im programming in VSC and VS**
 
