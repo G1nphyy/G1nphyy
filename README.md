@@ -17,7 +17,7 @@ Here are some of the technologies and tools I work with:
 - **Web Development:** HTML, CSS, JavaScript + React.js, PHP, MySQL, MariaDB, PostgreSQL, Laravel, TypeScript, Vite
 - **Game Development:** Godot, Python, C++, C#, UE5
 - **Tools:** Git, Docker, npm
-- **Im programming in VSC and VS**
+- **Im programming in VSC, VS and all JetBrains stuff**
 
 ## 📈 GitHub Stats
 
