@@ -21,8 +21,13 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-![G1nphyy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G1nphyy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G1nphyy&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=G1nphyy&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1nphyy&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
 ## 🔭 Projects
 
