@@ -21,13 +21,8 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G1nphyy&show_icons=true&theme=radical&cache_seconds=86400" />
-</p>
+[*asd*](https://github-readme-stats.vercel.app/api?username=G1nphyy&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1nphyy&layout=compact&theme=radical&cache_seconds=86400" />
-</p>
 
 ## 🔭 Projects
 
