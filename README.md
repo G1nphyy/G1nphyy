@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate Programmer and student, constantl
 - 💼 I'm working on various projects to enhance my coding skills.
 - 🌱 I'm currently learning new technologies and improving my expertise in existing ones.
 - 📝 I regularly explore new topics and share my knowledge through my projects and repositories.
-- ⚡ I love VOLLEYBALL
 
 ## 🛠️ Skills
 
